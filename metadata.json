@@ -4,13 +4,4 @@
   "description": "skivon.com project earn SkivonCoins by purchasing products. Earn SINC by earning at skivon.com \n Earned SkivonCoins can be used to purchase products in store skivon.com or can be sent to your indicated wallet for personal or busieness use.",
   "image": "https://raw.githubusercontent.com/Skivon-com/crypto/refs/heads/main/logo.png",
   "website": "https://skivon.com"
-   "tags": [
-        "Skivon",
-        "Store of Value",
-        "Rewards",
-        "Loyalty"
-      ],
-      "extensions": {
-        "website": "https://skivon.com"
-      }
 }
